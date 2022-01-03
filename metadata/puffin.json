@@ -1,0 +1,36 @@
+{
+  "name" : "seal",
+  "description" : "cute puffin",
+  "image" : "https://ipfs.io/ipfs/QmQLWLADEnowr5PVwWbcAS13k5RhhUpeKC9p1De4Rc9pS5",
+  "attributes" : [
+    {
+      "trait_type": "Strength",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Speed",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "display_type" : "boost_number",
+      "trait_type": "Jump",
+      "value": 1
+    },
+    {
+      "display_type" : "boost_percentage",
+      "trait_type": "Speed",
+      "value": 20
+    },
+    {
+      "display_type" : "number",
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type" : "Humble",
+      "value": "True"
+    }
+  ]
+}
