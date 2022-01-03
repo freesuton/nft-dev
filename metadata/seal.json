@@ -1,0 +1,27 @@
+{
+  "name" : "seal",
+  "description" : "cute seal",
+  "image" : "https://ipfs.io/ipfs/QmUTr2JmVFh78s892cjNabP6tRRaGvfUm4eejYCTt242Cd",
+  "attributes" : [
+    {
+      "trait_type": "Strength",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Speed",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Jump",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Interlligence",
+      "value": 7,
+      "max_value": 10
+    }
+  ]
+}
