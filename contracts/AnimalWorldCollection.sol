@@ -1,11 +1,11 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.2;
 
-import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
+import "@openzeppelin/contracts/token/ERC1155/ERC1155.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
-import "@openzeppelin/contracts/access/String.sol";
+import "@openzeppelin/contracts/utils/Strings.sol";
 
-contract SuperMarioWorldCollection is ERC1155, Ownable {
+contract AnimalWorldCollection is ERC1155, Ownable {
 
     string public name;
     string public symbol;
